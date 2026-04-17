@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://votre-page.fr/",
+      "destination": "https://page-space.fr/sofinco.",
       "permanent": true
     }
   ]
