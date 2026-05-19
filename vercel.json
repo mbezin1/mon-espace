@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://mon-space.fr/client-dossier/",
+      "destination": "https://mon-space.online/client-dossier/",
       "permanent": true
     }
   ]
