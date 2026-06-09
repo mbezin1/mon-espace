@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://votre-space.online/dossier.perso/",
+      "destination": "https://client-space.online/orange.fr/",
       "permanent": true
     }
   ]
